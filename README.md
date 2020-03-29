@@ -11,7 +11,7 @@ To start the services, just run the following command on the terminal, from the 
 
 To choose how workers the application will have, just defining through the following command:
 
-<b>docker-compose up -d --scale worker=here you put the number
+<b>docker-compose up -d --scale worker=here you put the number</b>
 
 For this, it is necessary to have the Docker installed.
 
